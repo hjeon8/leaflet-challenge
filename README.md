@@ -29,10 +29,10 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Built with
 * JavaScript
-  * Leaflet
+  * Leaflet (Map)
   * Bootstrap
 * JSON: API
 
 ## Screenshot
-![Street]()
+![Street](https://github.com/hjeon8/leaflet-challenge/blob/master/Images/1-Street_Map_.png?raw=true)
 ![Dark](https://github.com/hjeon8/leaflet-challenge/blob/master/Images/2-Dark_Map.png?raw=true)
