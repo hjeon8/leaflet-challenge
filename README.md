@@ -34,5 +34,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 * JSON: API
 
 ## Screenshot
-![Street](https://github.com/hjeon8/leaflet-challenge/blob/master/Images/1-Street_Map.png?raw=true)
+![Street]()
 ![Dark](https://github.com/hjeon8/leaflet-challenge/blob/master/Images/2-Dark_Map.png?raw=true)
