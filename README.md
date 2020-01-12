@@ -25,7 +25,6 @@ The USGS is interested in building a new set of tools that will allow them visua
 
    * Create a legend that will provide context for your map data.
 
-   * Your visualization should look something like the map above.
 
 
 ## Built with
