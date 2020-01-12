@@ -29,7 +29,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Built with
 * JavaScript
-  * Leaflet (Map)
+  * Leaflet (Map) - API (openstreetmap.org)
   * Bootstrap
 * JSON: API
 
